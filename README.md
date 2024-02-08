@@ -9,7 +9,8 @@
 
 ## Summary
 Student pursuing a Bachelor of Computer Science at Purdue University Fort Wayne with a minor in Mathematics. Skills in Java, SQL, JavaScript, HTML, C#, C, Python, AWS, Git, React, Tailwind, and MongoDB. Driven by a team-oriented mindset and a focus on success through critical and divergent thinking.
-![Sweetwater Project Screenshot](path/to/sweetwater-image.jpg)
+
+[Portrait](/images/portrait.jpg)
 
 ## Education
 **Purdue University, Fort Wayne**  
