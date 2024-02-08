@@ -40,25 +40,25 @@ Tutored 6 students in mathematics and programming (Java & Python), enhancing the
 ### Web Development Project: Sweetwater Music Center
 - Description: Collaborated on a website currently used by a prominent company in Fort Wayne, Indiana.
 - Technologies: [Vercel, HTML, JavaScript, HTML, Airtable, and Slack]
-- ![Sweetwater Project Screenshot](/Images/smc.png)
+[Sweetwater Project Screenshot](/Images/SMC.png)
 - [View on GitHub](https://github.com/centta01/MyProjects)
 
 ### Cloud AI: Hackathon Confluence AI Support Bot
 - Description: Developed a Confluence AI support bot using Amazon Lex for secure information retrieval.
 - Technologies: Java, Amazon Lex, AWS, and Confluence
-- ![Hackathon Group Photo](/Images/hackathon.jpg)
+[Hackathon Group Photo](/Images/hackathon.jpg)
 - [View on GitHub](https://github.com/centta01/MyProjects)
 
 ### Web Development Project: Nerd Herd
 - Description: Created a website for online friends to play, rate, and enjoy board games or "DND" style games.
 - Technologies: [EJS, NodeJS, CSS, Javascript, HTML, Google Cloud, and MongoDB]
-- ![Nerd Herd Website Screenshot](/Images/NerdHerd.png)
+[Nerd Herd Website Screenshot](/Images/NerdHerd.png)
 - [View on GitHub](https://github.com/centta01/NerdHerd)
 
 ### Image Analysis: Skin Lesion Detection System
 - Description: Developed a skin lesion detection system with image analysis and text responses.
 - Technologies: [Google Colab, Tensorflow GPU, Tensorflow Keras, Python, and InceptionV3]
-- ![Skin Lesion Detection System Video](/Images/AI.png)
+[Skin Lesion Detection System Video](/Images/AI.png)
 - [View on GitHub](https://github.com/centta01/PFW_SeniorCapstone_Team2)
 
 ## Certifications
