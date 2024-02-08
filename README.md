@@ -5,7 +5,7 @@
 - **Email:** centlivreandre@gmail.com
 - **GitHub:** [github.com/centta01](https://github.com/centta01)
 - **LinkedIn:** [linkedin.com/in/andre-centlivre/](https://linkedin.com/in/andre-centlivre/)
-- **Portfolio:** [Andrecent.github.io](https://Andrecent.github.io)
+- **Portfolio:** [Andrecent.github.io](https://centta01.github.io)
 
 ## Summary
 Student pursuing a Bachelor of Computer Science at Purdue University Fort Wayne with a minor in Mathematics. Skills in Java, SQL, JavaScript, HTML, C#, C, Python, AWS, Git, React, Tailwind, and MongoDB. Driven by a team-oriented mindset and a focus on success through critical and divergent thinking.
