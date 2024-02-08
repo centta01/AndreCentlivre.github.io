@@ -10,7 +10,7 @@
 ## Summary
 Student pursuing a Bachelor of Computer Science at Purdue University Fort Wayne with a minor in Mathematics. Skills in Java, SQL, JavaScript, HTML, C#, C, Python, AWS, Git, React, Tailwind, and MongoDB. Driven by a team-oriented mindset and a focus on success through critical and divergent thinking.
 
-![Portrait](/Images/portrait.JPG)
+![Portrait](/Images/portrait.png)
 
 ## Education
 **Purdue University, Fort Wayne**  
@@ -46,7 +46,7 @@ Tutored 6 students in mathematics and programming (Java & Python), enhancing the
 ### Cloud AI: Hackathon Confluence AI Support Bot
 - Description: Developed a Confluence AI support bot using Amazon Lex for secure information retrieval.
 - Technologies: Java, Amazon Lex, AWS, and Confluence
-![Hackathon Group Photo](/Images/hackathon.jpg)
+![Hackathon Group Photo](/Images/hackathon.png)
 - [View on GitHub](https://github.com/centta01/MyProjects)
 
 ### Web Development Project: Nerd Herd
