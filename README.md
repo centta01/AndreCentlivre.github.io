@@ -10,7 +10,7 @@
 ## Summary
 Student pursuing a Bachelor of Computer Science at Purdue University Fort Wayne with a minor in Mathematics. Skills in Java, SQL, JavaScript, HTML, C#, C, Python, AWS, Git, React, Tailwind, and MongoDB. Driven by a team-oriented mindset and a focus on success through critical and divergent thinking.
 
-![Portrait](/Images/portrait.jpg)
+![Portrait](/Images/portrait.JPG)
 
 ## Education
 **Purdue University, Fort Wayne**  
