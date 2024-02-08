@@ -1,4 +1,4 @@
-# Andre Centlivre
+# André Centlivre
 
 ## Summary
 Hi! I'm André, a student pursuing a Bachelor of Computer Science at Purdue University Fort Wayne with a minor in Mathematics. I have experience in Java, SQL, JavaScript, HTML, C#, C, Python, AWS, Git, React, Tailwind, and MongoDB. I am an individual driven by a team-oriented mindset and a focus on success through critical and divergent thinking.
